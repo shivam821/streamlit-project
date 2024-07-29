@@ -1,2 +1,5 @@
 Streamlit
 gunicorn
+mysql
+datetime
+logging
